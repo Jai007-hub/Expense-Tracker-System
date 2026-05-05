@@ -1,5 +1,5 @@
-Java Expense Tracker System
-
+**Java Expense Tracker System
+**
 A multi-user personal finance management desktop application built with Java and Java Swing as part of the Object Oriented Programming (OOPs) project
 
 🧾 About the Project
@@ -82,6 +82,11 @@ Double click run.bat
 Option 2 — Manual:
 bashjavac -d out src\Expense.java src\ExpenseService.java src\ExpenseManager.java src\BackgroundSaver.java src\UserManager.java src\ExpenseTrackerGUI.java
 java -cp out ExpenseTrackerGUI
+
+
+<img width="1180" height="761" alt="image" src="https://github.com/user-attachments/assets/7ec3ba2c-9e09-4fbd-af11-aec9ffc20741" />
+
+
 
 💡 OOP Concepts Demonstrated
 ConceptWhere UsedInterfaceExpenseService.javaEncapsulationPrivate fields in Expense.javaAbstractionGUI calls interface methods onlyInheritanceExpenseTrackerGUI extends JFramePolymorphismExpenseService variable holds ExpenseManager objectConstructor OverloadingTwo constructors in Expense.javaStatic Memberscounter variable in Expense.javaMulti-threadingBackgroundSaver.java
