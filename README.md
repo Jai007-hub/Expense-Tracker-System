@@ -1,5 +1,5 @@
-**Java Expense Tracker System
-**
+Java Expense Tracker System
+
 A multi-user personal finance management desktop application built with Java and Java Swing as part of the Object Oriented Programming (OOPs) project
 
 🧾 About the Project
