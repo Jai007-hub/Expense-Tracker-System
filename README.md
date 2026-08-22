@@ -3,6 +3,7 @@
 A multi-user personal finance management desktop application built with Java and Java Swing as part of the Object Oriented Programming (OOPs) project
 
 🧾 About this Project
+
 The Java Expense Tracker System is a fully offline desktop application that allows multiple users to track, manage, and analyse their daily expenses through a clean graphical interface. No internet connection or database required — all data is stored locally in CSV files.
 The project demonstrates all three required OOP concepts:
 
@@ -16,6 +17,7 @@ The project demonstrates all three required OOP concepts:
 
 
 ✨ Features:-
+
 
 👤 Multi-user support — each user has isolated expense records
 
@@ -39,6 +41,7 @@ The project demonstrates all three required OOP concepts:
 
 
 🗂️ Project Structure:-
+
 
 ExpenseTracker/
 
