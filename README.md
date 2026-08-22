@@ -1,4 +1,4 @@
-Java Expense Tracker System
+# Air Quality Prediction — ML Pipeline with L1 & L2 Regularization
 
 A multi-user personal finance management desktop application built with Java and Java Swing as part of the Object Oriented Programming (OOPs) project
 
